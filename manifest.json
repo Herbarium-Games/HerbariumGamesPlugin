@@ -1,0 +1,9 @@
+{
+  "name": "com.herbariumgames.tool",
+  "version": "0.0.1",
+  "displayName": "HGHelper",
+  "description": "Helper-Tool",
+  "unity": "2020.2",
+  "author": "Nintoryan",
+  "type": "git"
+}
