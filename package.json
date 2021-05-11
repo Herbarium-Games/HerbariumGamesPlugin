@@ -1,0 +1,13 @@
+{
+  "name": "com.HerbariumGames.Plugin",
+  "version": "0.0.1",
+  "displayName": "HGHelper",
+  "description": "Helper-Tool",
+  "unity": "2020.2",
+  "author": {
+    "name": "Nintoryan",
+    "email": "herbariumgame@gmail.com",
+    "url": "https://github.com/Herbarium-Games"
+  },
+  "type": "library"
+}
